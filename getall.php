@@ -1,7 +1,7 @@
 <?php
 //把common.php文件导入进来
 include 'common.php';
-
+/*我用githup修改了文件*/
 /*查询数据库里面，多少条数据，总记录数，分页查询*/
 $total=$pdo->query("select * from member")->rowCount();
 //echo $total;
