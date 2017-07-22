@@ -1,4 +1,5 @@
 <?php
+//hahah 我在本地修改了一次
 //把common.php文件导入进来
 include 'common.php';
 /*我用githup修改了文件*/
